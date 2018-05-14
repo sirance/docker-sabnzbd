@@ -1,6 +1,6 @@
 FROM alpine:latest
 MAINTAINER Simon Rance <sirance@gmail.com>
-ARG GITTAG=2.3.2
+ARG GITTAG=2.3.3
 ARG PAR2TAG=v0.8.0
 
 COPY requirements.txt /requirements.txt
